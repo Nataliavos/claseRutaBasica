@@ -1,9 +1,14 @@
 
-# def calcular_promedio(lista_datos):
-#     valores = []
+# def calcular_promedio(arr):
+#     suma = 0
+#     for el in arr:
+#         suma += el
+#     cantidad = len(arr)
+#     return suma / cantidad
 
-#     promedio = valores / len(valores)
-#     return valores
+
+# #     promedio = valores / len(valores)
+# #     return valores
 
 
 numeros = []
